@@ -1,41 +1,52 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Market Dashboard</title>
-    <style>
-        body{
-            font-family: Arial;
-            background:#111827;
-            color:white;
-            padding:40px;
-        }
+<meta charset="UTF-8">
+<title>Market Dashboard</title>
 
-        h1{
-            color:#00ff88;
-        }
+<style>
 
-        .card{
-            background:#1f2937;
-            padding:20px;
-            border-radius:10px;
-            margin-top:20px;
-        }
-    </style>
+body{
+    background:#111827;
+    color:white;
+    font-family:Arial;
+    margin:40px;
+}
+
+.card{
+    background:#1f2937;
+    border-radius:10px;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+}
+
+td{
+    padding:10px;
+    border-bottom:1px solid #333;
+}
+
+h1{
+    color:#00ff99;
+}
+
+</style>
+
 </head>
 
 <body>
 
-<h1>📊 Market Dashboard</h1>
+<h1>📈 Market Dashboard</h1>
 
-<div class="card">
-    <h2>Weekly Sector Leader</h2>
-    <p>🥇 Pharma +2.10%</p>
-</div>
+<h3 id="date"></h3>
 
-<div class="card">
-    <h2>Monthly Leader</h2>
-    <p>🚀 Defence +8.42%</p>
-</div>
+<div id="dashboard"></div>
+
+<script src="script.js"></script>
 
 </body>
 </html>

@@ -3,71 +3,71 @@
   "weekly": [
     {
       "sector": "niftyfmcg",
-      "value": 2.0442873743521437
-    },
-    {
-      "sector": "niftymidsmallhealthcare",
-      "value": 1.3750756366858474
+      "value": 2.0708513732908407
     },
     {
       "sector": "niftyrealty",
-      "value": 1.3640474233856181
+      "value": 1.5907548176837882
+    },
+    {
+      "sector": "niftymidsmallhealthcare",
+      "value": 1.293611621847156
     }
   ],
   "monthly": [
     {
       "sector": "niftyindiadefence",
-      "value": 11.873539050181401
+      "value": 11.988792935007218
     },
     {
       "sector": "niftyprivatebank",
-      "value": 7.4110831375784985
+      "value": 7.603456972858003
     },
     {
       "sector": "niftybank",
-      "value": 6.9428253584306505
+      "value": 7.176017984051218
     }
   ],
   "threeMonth": [
     {
       "sector": "niftyindiadefence",
-      "value": 40.83118980122452
+      "value": 41.00528585530208
     },
     {
       "sector": "niftyprivatebank",
-      "value": 21.95495188636442
+      "value": 22.188790519033205
     },
     {
       "sector": "niftyrealty",
-      "value": 21.916702625169254
+      "value": 22.171379269805993
     }
   ],
   "sixMonth": [
     {
       "sector": "niftyindiadefence",
-      "value": 36.639068303226985
+      "value": 36.811480851814395
     },
     {
       "sector": "niftypharma",
-      "value": 14.118887906770123
+      "value": 14.063973762088064
     },
     {
       "sector": "niftyenergy",
-      "value": 12.267161422610531
+      "value": 12.39328361053008
     }
   ],
   "ytd": [
     {
       "sector": "niftyindiadefence",
-      "value": 37.19982487592634
+      "value": 37.370299814159466
     },
     {
       "sector": "niftypharma",
-      "value": 15.038612784502826
+      "value": 14.981434926869117
     },
     {
       "sector": "niftyenergy",
-      "value": 14.22400323282302
+      "value": 14.34957079514913
     }
   ]
 }
